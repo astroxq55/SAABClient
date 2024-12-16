@@ -11,10 +11,10 @@ server.properties
 3. to start the server, type the following command. You should get this output if done correctly, and its waiting for a client to connect.
 java –classpath SAAB.jar com.saabtech.server.SAABServer
 
-[OUTPUT]	
-Loading server config [path-to-directory]\SAABServer\server.properties... DONE!
-Setting up server socket at port 5463 ... DONE!
-Waiting for client to connect
+#[OUTPUT]	
+#Loading server config [path-to-directory]\SAABServer\server.properties... DONE!
+#Setting up server socket at port 5463 ... DONE!
+#Waiting for client to connect
 
 
 	
